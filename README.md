@@ -89,6 +89,8 @@ Background images can add flair to your frame, and help them stand out on the fe
 
 In addition to these guidelines, we have designed a set of templates that can make it easier to get started with designing the different states for your frame. You can explore these templates in Figma [here](#), or start implementing them with FrogUI [here](#).
 
+![A gallery of templates provided.](templates.png)
+
 Here is a list of templates that we have included, with a brief description of how they can be used: 
 
 * **Generic**: text, description, and optional background image with opaque overlay.
