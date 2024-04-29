@@ -92,11 +92,14 @@ A consistent layout that adapts to various contexts makes your experience more a
 
 #### Safe Area
 
-The Frame Safe Area is the space within a view that isn’t covered by other views or clipped by the frame's container. In order to ensure that your frame's contents are always visible, you should add generous padding to the edges of your frame and validate that the contents sit inside of this safe area. Padding of between 60-80px should accomplish this goal.
+The Frame Safe Area is the space within a view that isn’t covered by other views or clipped by the frame's container. In order to ensure that your frame's contents are always visible, you should add generous padding to the edges of your frame and validate that the contents sit inside of this safe area. Margin of between 60-80 pixels should accomplish this goal.
 
-![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/CBA38246-2056-462D-9317-0EF3E357A93E_2/sxodLiFMmsI5bzkywtyugNaeeqQAJs2xUupHZEVmR20z/Image.png)
-
-![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/6B360249-713B-4726-A3AA-209DCBD34B60_2/5Yw3ZftdgfRzHPkQv9TeC1fthSHXVdZ0TurXZeBt69gz/Image.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-dark.png">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-light.png" width="auto" height="400">
+  </picture>
+</p>
 
 #### Best practices
 
