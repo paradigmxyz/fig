@@ -64,7 +64,7 @@ Judicious use of color can enhance communication, evoke your brand, provide visu
 
 An example color specification for Frames.
 
-![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/BA7E10E8-9A47-42E4-BA17-E320190C6782_2/qzMSnQeeWVuont39LEyVr9vuWiPs9CmGLCXYnJqwJYMz/Image.png)
+![image](https://github.com/paradigmxyz/fig/assets/1936207/c24dc1e3-9cbc-4a7f-9511-a0b345e15199)
 
 ### Icons
 
@@ -131,7 +131,7 @@ In addition to ensuring legible text, your typographic choices can help you clar
 
 An example typography specification for Frames.
 
-![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/B1653978-58E9-4660-BFCF-C890B6B5C27B_2/3zlB6ejZBdIpne5kdUBxcxqpyPIFUKraynFpN7u3cYIz/Image.png)
+![image](https://github.com/paradigmxyz/fig/assets/1936207/358581b3-d5ba-48ef-988a-45d455aad459)
 
 ### Writing
 
@@ -172,6 +172,9 @@ Frame images are your chance to capture attention and get people engaging with y
 Common frame layout types you can use to design and prototype your frames.
 
 ![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/0B307AB9-E1E3-43F3-A156-DB33E871016A_2/SfeJss2CLZ5gHq0xMkvmoblTGT6xkK7Wazz9Ia8wKjoz/Image.png)
+
+<img alt="" src="https://github.com/paradigmxyz/fig/assets/1936207/c5328139-d488-4c65-a2ff-5c57f3c53475" width="auto" height="60" />
+
 
 ### Transactions
 
