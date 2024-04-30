@@ -64,7 +64,12 @@ Judicious use of color can enhance communication, evoke your brand, provide visu
 
 An example color specification for Frames.
 
-![image](https://github.com/paradigmxyz/fig/assets/1936207/c24dc1e3-9cbc-4a7f-9511-a0b345e15199)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/colors-dark.png">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/colors-light.png" width="auto" height="600">
+  </picture>
+</p>
 
 ### Icons
 
@@ -97,7 +102,7 @@ The Frame Safe Area is the space within a view that isn’t covered by other vie
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-dark.png">
-    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-light.png" width="auto" height="400">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-light.png" width="auto" height="450">
   </picture>
 </p>
 
@@ -131,7 +136,12 @@ In addition to ensuring legible text, your typographic choices can help you clar
 
 An example typography specification for Frames.
 
-![image](https://github.com/paradigmxyz/fig/assets/1936207/358581b3-d5ba-48ef-988a-45d455aad459)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/typography-dark.png">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/typography-light.png" width="auto" height="600">
+  </picture>
+</p>
 
 ### Writing
 
@@ -173,8 +183,12 @@ Common frame layout types you can use to design and prototype your frames.
 
 ![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/0B307AB9-E1E3-43F3-A156-DB33E871016A_2/SfeJss2CLZ5gHq0xMkvmoblTGT6xkK7Wazz9Ia8wKjoz/Image.png)
 
-<img alt="" src="https://github.com/paradigmxyz/fig/assets/1936207/c5328139-d488-4c65-a2ff-5c57f3c53475" width="auto" height="60" />
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-dark.png">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-light.png" width="auto" height="60">
+  </picture>
+</p>
 
 ### Transactions
 
