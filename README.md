@@ -1,4 +1,5 @@
-![image](https://github.com/paradigmxyz/fig/assets/1936207/53a22490-6123-4da2-9983-bd6d8c097b80)
+![Cover image](https://github.com/paradigmxyz/fig/assets/1936207/3157f1cb-7d4e-4a1a-9258-301d9e2059a0)
+
 
 # Frame Interface Guidelines
 
