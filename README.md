@@ -1,3 +1,5 @@
+![image](https://github.com/paradigmxyz/fig/assets/1936207/53a22490-6123-4da2-9983-bd6d8c097b80)
+
 # Frame Interface Guidelines
 
 The FIG contains guidance and best practices that can help you design a great experience for [frames](https://docs.farcaster.xyz/learn/what-is-farcaster/frames). Adapted specifically for frames from the Apple [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines).
