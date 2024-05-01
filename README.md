@@ -67,7 +67,7 @@ An example color specification for Frames.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/colors-dark.png">
-    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/colors-light.png" width="auto" height="600">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/colors-light.png">
   </picture>
 </p>
 
@@ -102,7 +102,7 @@ The Frame Safe Area is the space within a view that isn’t covered by other vie
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-dark.png">
-    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-light.png" width="auto" height="450">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/safe-light.png">
   </picture>
 </p>
 
@@ -139,7 +139,7 @@ An example typography specification for Frames.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/typography-dark.png">
-    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/typography-light.png" width="auto" height="600">
+    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/typography-light.png">
   </picture>
 </p>
 
