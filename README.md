@@ -186,12 +186,14 @@ Common frame layout types you can use to design and prototype your frames.
 
 ![image](https://res.craft.do/user/full/378ac782-8234-af7c-3ad5-41c363e1367e/doc/28CEF71E-749E-4C00-9A4E-B4062A78F141/0B307AB9-E1E3-43F3-A156-DB33E871016A_2/SfeJss2CLZ5gHq0xMkvmoblTGT6xkK7Wazz9Ia8wKjoz/Image.png)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-dark.png">
-    <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-light.png" width="auto" height="60">
-  </picture>
-</p>
+<a href="https://www.figma.com/community/file/1367670879509913267/frame-interface-guidelines">
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-dark.png">
+      <img alt="safe area diagram" src="https://github.com/paradigmxyz/fig/blob/main/.github/content/open-in-figma-light.png" width="auto" height="60">
+    </picture>
+  </p>
+</a>
 
 ### Transactions
 
